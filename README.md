@@ -14,5 +14,7 @@ Sales Performance Overview: Implemented category-wise, region-wise, segment-wise
 - Data Filtering & Interactive Reports
 
 This project highlights my expertise in data analytics, visualization, and Excel-based business intelligence solutions to drive strategic decision-making.
-# Dashboard :- ![DMart Sales Dashboard 2024 - Excel 25-03-2025 08_37_28](https://github.com/user-attachments/assets/727181b3-860f-41f3-a6d8-3e850c8a420a)
+# Dashboard :-
+
+![DMart Sales Dashboard 2024 - Excel 25-03-2025 08_37_28](https://github.com/user-attachments/assets/727181b3-860f-41f3-a6d8-3e850c8a420a)
 
