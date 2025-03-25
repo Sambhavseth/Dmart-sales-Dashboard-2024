@@ -1,5 +1,5 @@
 # Dmart-sales-Dashboard-2024
-##project Objective :-
+## project Objective :-
 - Designed and developed an interactive sales dashboard in Microsoft Excel to analyze and visualize key business metrics, facilitating data-driven decision-making.
 - Key Features & Analysis:
 Sales Performance Overview: Implemented category-wise, region-wise, segment-wise, and shipping mode-wise sales breakdowns using interactive visualizations.
